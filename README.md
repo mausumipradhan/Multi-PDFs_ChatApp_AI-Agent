@@ -59,25 +59,7 @@ The application follows these steps to provide responses to your questions:
 ![Demo 4: Chatbot Output](img/CALMOutput.jpg)
 ---
 
-## ▶️Installation
 
-Clone the repository:
-
-`git clone https://github.com/GURPREETKAURJETHRA/Multi-PDFs_ChatApp_AI-Agent.git`
-
-Install the required Python packages:
-
-`pip install -r requirements.txt`
-
-Set up your Google API key from `https://makersuite.google.com/app/apikey` by creating a .env file in the root directory of the project with the following contents:
-
-`GOOGLE_API_KEY =<your-api-key-here>`
-
-Run the Streamlit app:
-
-`streamlit run app.py`
-
----
 ## 💡Usage
 
 To use the Multi-PDF-s 📚ChatApp AI Agent 🤖, U can have glimpse of look by clicking on this link : [Launch App On Streamlit](https://multi-pdfschatappai-agent.streamlit.app/). To run app, fork app and follow the below steps to start using it. Use the sidebar to upload PDF files and train the chatbot. Once trained, you can have conversations with the chatbot by entering questions in the text input field.
